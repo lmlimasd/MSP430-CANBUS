@@ -1,0 +1,1 @@
+if you have any problem for open the kicad files use version 20130914 in the "software used in this project" folder

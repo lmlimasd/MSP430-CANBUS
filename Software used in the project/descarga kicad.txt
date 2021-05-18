@@ -1,0 +1,4 @@
+base de datos
+http://iut-tice.ujf-grenoble.fr/cao/
+para windows
+http://iut-tice.ujf-grenoble.fr/cao/KiCad_stable-2013.07.07-BZR4022_Win_full_version.exe
